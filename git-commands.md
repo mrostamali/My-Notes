@@ -13,4 +13,4 @@ There are a lot of things to learn when it comes to working with git, but these 
 
 > **TIP:** You should make frequent, small commits when working one your projects.
 
-> Work with these commands every day, and they will become a part of your (like the force Luke).
+> Work with these commands every day, and they will become a part of you (like the force Luke).
