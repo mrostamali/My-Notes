@@ -12,6 +12,6 @@ If you want to be effective as a software developer, there are three things you 
 
 > ToDo: Add more useful shortcuts here ...
 
-- [ctrl] + n - Create a new file (works in most programs, including VSCode and VS2019 and MS Word, Excel, etc.).
-- [ctrl] + K + M - Will let you select the language behind the scene.
-- [ctrl] + backtick - Toggle the console window in VS Code.
+- `[ctrl] + n` - Create a new file (works in most programs, including VSCode and VS2019 and MS Word, Excel, etc.).
+- `[ctrl] + K + M` - Will let you select the language behind the scene.
+- `[ctrl]` + backtick \` - Toggle the console window in VS Code.
