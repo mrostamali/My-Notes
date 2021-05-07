@@ -1,0 +1,5 @@
+# The .gitignore file identifies the pattens for files/folders that you do NOT want to track in your git repository.
+
+*.zip
+
+# Ignore these folders 
