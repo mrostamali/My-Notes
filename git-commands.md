@@ -36,6 +36,6 @@ After that, you will only need to type `git push` to push any local changes to r
 Here's some other helpful commands with regard to the remote repository connections for your local repository.
 
 - `git remote -v` - View all the remote repositories
-- `git remote remove [remoteName]` - Remove a remote entry
+- `git remote remove [remoteName] (here it is origin) = git remote remove origin` - Remove a remote entry
 - `git remote add [remoteName] [URL-to-Repository]` - Add a remote repository 
    ex:  git remote add origin http://github.com/mrostamali/my-first-repository.git
