@@ -1,4 +1,4 @@
-# My First Repository 
+# My Notes Repository 
 
 This is a MarkDown document, which is just a plain old text document that uses certain character combinations to represent formatting. Markdown documents can be easily converted to HTML documents.
 
